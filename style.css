@@ -1,0 +1,34 @@
+*{
+    padding: 0; margin: 0; font-family: 'Josefin Sans', sans-serif;
+}
+
+ /* Make the image fully responsive */
+ .carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    position: relative;
+}
+.navbar{
+    height: 12vh;
+}
+
+#loading{
+    
+    width: 100%;
+    height: 100vh;
+    background: black
+    url('https://loading.io/spinners/progress-pie/lg.percent-circular-preloader-gif.gif');
+    
+}
+
+
+
+
+
+
